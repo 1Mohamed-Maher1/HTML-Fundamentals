@@ -32,6 +32,7 @@ This course covered the foundational concepts of HTML, equipping learners with t
 ⁃ Enhancements for merging cells and improving accessibility.
 
 ⁃ Utilizing tables for structured layouts.
+
 ---
 ### Forms and Inputs
 - Topics (Planned):
@@ -41,6 +42,7 @@ This course covered the foundational concepts of HTML, equipping learners with t
 ⁃ Implementing form elements like text fields, message groups, and submit buttons.
 
 ⁃ Handling form data submission and adding validation for better user experience.
+
 ---
 ### Course Highlights:
 - Completed 9 lessons, 51 topics, and 22 quizzes.
