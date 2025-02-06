@@ -34,7 +34,9 @@ This course covered the foundational concepts of HTML, equipping learners with t
 ⁃ Utilizing tables for structured layouts.
 ---
 ### Forms and Inputs
-- Topics (Planned):Creating and validating forms.
+- Topics (Planned):
+
+⁃ Creating and validating forms.
 
 ⁃ Implementing form elements like text fields, message groups, and submit buttons.
 
