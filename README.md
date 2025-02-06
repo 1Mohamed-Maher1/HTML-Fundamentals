@@ -27,7 +27,9 @@ This course covered the foundational concepts of HTML, equipping learners with t
 - Achievements: Completed quizzes and challenges to reinforce learning.
 ---
 ### HTML Tables
-- Topics (Planned):Basic and advanced table structures.
+- Topics (Planned):
+
+⁃ Basic and advanced table structures.
 
 ⁃ Enhancements for merging cells and improving accessibility.
 
