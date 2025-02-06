@@ -3,47 +3,47 @@
 This course covered the foundational concepts of HTML, equipping learners with the skills to create well-structured and accessible web pages. Here’s a summary of the key topics and achievements:
 
 ### Welcome and First Steps
-- Topics Explored: Overview of web development.
+⁃ Topics Explored: Overview of web development.
 
-⁃ Setting up a code editor.
+- Setting up a code editor.
 
-⁃ Building the first webpage.
+- Building the first webpage.
 
-⁃ Preparing for the course with essential resources.
-- Achievements: Completed quizzes to validate understanding.
+- Preparing for the course with essential resources.
+⁃ Achievements: Completed quizzes to validate understanding.
 ---
 ### Introduction to HTML
 - Learned the basics of HTML syntax and its role in web development.
 - Explored the structure and importance of semantic HTML.
 ---
 ### HTML Fundamentals
-- Key Topics:
+⁃ Key Topics:
 
-⁃ HTML document structure, text elements, lists, images, hyperlinks, and semantic HTML.
+- HTML document structure, text elements, lists, images, hyperlinks, and semantic HTML.
 
-⁃ Advanced formatting using VS Code extensions, including creating Arabic versions (RTL layouts).
+- Advanced formatting using VS Code extensions, including creating Arabic versions (RTL layouts).
 
-⁃ Challenges for hands-on application and mastering core HTML concepts.
-- Achievements: Completed quizzes and challenges to reinforce learning.
+- Challenges for hands-on application and mastering core HTML concepts.
+⁃ Achievements: Completed quizzes and challenges to reinforce learning.
 ---
 ### HTML Tables
-- Topics (Planned):
+⁃ Topics (Planned):
 
-⁃ Basic and advanced table structures.
+- Basic and advanced table structures.
 
-⁃ Enhancements for merging cells and improving accessibility.
+- Enhancements for merging cells and improving accessibility.
 
-⁃ Utilizing tables for structured layouts.
+- Utilizing tables for structured layouts.
 
 ---
 ### Forms and Inputs
-- Topics (Planned):
+⁃ Topics (Planned):
 
-⁃ Creating and validating forms.
+- Creating and validating forms.
 
-⁃ Implementing form elements like text fields, message groups, and submit buttons.
+- Implementing form elements like text fields, message groups, and submit buttons.
 
-⁃ Handling form data submission and adding validation for better user experience.
+- Handling form data submission and adding validation for better user experience.
 
 ---
 ### Course Highlights:
